@@ -97,7 +97,7 @@ def post_to_mastodon(game):
         return
 
     
-    hashtags = ' '.join([f"#{game['name'].replace(' ', '')}"] + [f"#{platform.replace(' ', '')}" for platform in game['gameboy_platforms'].split(', ')])
+    hashtags = ' '.join([f"#{game['name'].replace(' ', '')}"] + [f"#{platform.replace(' ', '')}" for platform in game['gameboy_platforms'].split(', ')] + ['#Retrogames'])
 
     
     post_content = (f"🎮 Random Retro Game:\n\n"
