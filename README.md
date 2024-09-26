@@ -61,7 +61,7 @@ This Python script fetches random Game Boy games using the [RAWG API](https://ra
 Run the script directly to post a random Game Boy game to your Mastodon account:
 
 ```bash
-python gamebot.py
+python3 gamebot.py
 ```
 
 This will fetch a random Game Boy game, retrieve its details, and post them along with a cover image to your Mastodon feed.
