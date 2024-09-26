@@ -95,7 +95,7 @@ Now, the script will automatically run at the specified time, posting a random g
   The script currently fetches Game Boy, Game Boy Color, NES, Sega Game Gear and Sega Master System. You can modify the `RAWG_GAMEBOY_PLATFORM_IDS` list to include different platform IDs from RAWG API.
 
 - **Image compression settings:**  
-  The `compress_image` function reduces the size of the game cover image to fit Mastodon's file size limits (20KB). You can adjust this limit and image quality by modifying the `max_size_kb` and `min_quality` parameters.
+  The `compress_image` function reduces the size of the game cover image to make it use less space (20KB). You can adjust this limit and image quality by modifying the `max_size_kb` and `min_quality` parameters.
 
 ## License
 
