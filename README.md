@@ -1,7 +1,7 @@
 
 # Mastodon Retro Game Poster
 
-This Python script fetches random Game Boy games using the [RAWG API](https://rawg.io/apidocs) and automatically posts the game information and cover image to Mastodon. The script can be scheduled to run periodically using `cron`, making it a perfect tool for sharing random retro games on your Mastodon account.
+This Python script fetches random Game Boy games using the [RAWG API](https://rawg.io/apidocs) and automatically posts the game information and cover image to Mastodon. The script can be scheduled to run periodically using `cron`, making it a perfect tool for sharing random retro games on your Mastodon account. My account is available at [Elytra15](https://elytra15.com/@retrogame)
 
 ## Features
 
