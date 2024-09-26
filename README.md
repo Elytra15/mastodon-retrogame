@@ -86,7 +86,7 @@ To schedule the script to run at regular intervals (e.g., daily), you can set up
 
 3. Save and exit the crontab editor.
 
-Now, the script will automatically run at the specified time, posting a random Game Boy game to your Mastodon account.
+Now, the script will automatically run at the specified time, posting a random game to your Mastodon account.
 
 ## Customization
 
