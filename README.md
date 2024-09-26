@@ -5,11 +5,12 @@ This Python script fetches random Game Boy games using the [RAWG API](https://ra
 
 ## Features
 
-- Fetches a random Game Boy game from the RAWG API.
+- Fetches a random retro game from the RAWG API.
 - Posts the game title, release date, and platforms to Mastodon.
 - Automatically resizes and compresses the game cover image if needed.
 - Generates hashtags based on the game and platforms.
 - Easy setup and can be scheduled via `cron` for regular posts.
+- Generate ALT text
 
 ## Requirements
 
